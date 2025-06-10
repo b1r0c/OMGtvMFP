@@ -1,10 +1,22 @@
 #EXTM3U url-tvg="https://github.com/b1r0c/OMGtvMFP/raw/refs/heads/main/epg.xml"
 
-#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Intrattenimento;Rai Tv",RAI 1 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/875922788/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1534161807/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2775802255/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="Italia 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Intrattenimento;Mediaset",ITALIA 1 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/663536394/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Intrattenimento;Rai Tv",RAI 1 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/875922788/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5 (2)" tvg-logo="" group-title="Mediaset",CANALE 5 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1101559666/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3445562519/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3448075317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -12,77 +24,41 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/344
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/210669162/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1101559666/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento;Rai Tv",RAI 2 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/246253359/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="italia1.it" tvg-name="Italia 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Intrattenimento;Mediaset",ITALIA 1 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/663536394/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3812796171/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3131104474/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2289038972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1324733956/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Sky",CIELO (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2719953688/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/500203271/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2090703806/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5 (2)" tvg-logo="" group-title="Mediaset",CANALE 5 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1534161807/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3445562519/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film;Sky",SKY CINEMA COLLECTION (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3525837057/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/449990998/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1144128726/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2235732004/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2924135092/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Moto Gp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3036316886/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari;Discovery",DISCOVERY NOVE (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574591400/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento;Rai Tv",RAI 2 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/246253359/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1759625738/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1665920101/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2100771782/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film;Sky",SKY CINEMA DRAMA (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1235530177/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2235732004/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA COMEDY (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3131104474/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis (2)" tvg-logo="" group-title="Sport",SKY SPORT TENNIS (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/78546677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="Mediaset 20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",MEDIASET 20 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3134481201/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/449990998/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1665920101/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3007400791/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3060043751/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",20 MEDIASET (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1230338185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -90,14 +66,56 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/123
 #EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/836680112/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA COMEDY (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/500203271/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1281264885/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Sky",CIELO (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3743894403/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Intrattenimento;Mediaset",MEDIASET EXTRA (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/477466531/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/415795144/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3093535330/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ROMANCE (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2890008905/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1820997555/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1 (2)" tvg-logo="" group-title="Sport",EUROSPORT 1 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3481346857/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Moto Gp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3036316886/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2090703806/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno (2)" tvg-logo="" group-title="Sport",SKY SPORT UNO (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3192996672/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 2 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1939210164/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1759625738/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film;Sky",SKY CINEMA DRAMA (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1235530177/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1324733956/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA UNO (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2872151911/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4 (2)" tvg-logo="" group-title="Mediaset",RETE 4 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4198218214/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2179822223/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Discovery",DMAX (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3803638765/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -105,77 +123,68 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/380
 #EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2143522071/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis (2)" tvg-logo="" group-title="Sport",SKY SPORT TENNIS (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/78546677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3618643172/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Intrattenimento;Mediaset",MEDIASET EXTRA (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/477466531/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1806815496/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="italia2.it" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Intrattenimento;Mediaset",ITALIA 2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1613543898/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3093535330/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2828455552/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574975196/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1289777017/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1890950169/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 8 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1440779061/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/729945219/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2455610203/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1228534500/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2272923972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1482866609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT [LIVE DURING EVENTS ONLY] (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/551730224/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/326825326/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1925964148/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1902695925/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2283887097/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2317684453/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1376440573/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24 (2)" tvg-logo="" group-title="Notizie;Rai Tv",RAI NEWS 24 (V) (2)
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2239645272/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="boingplus.it" tvg-name="Boing Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3841982646/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1744435623/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3658277450/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="tennischannel.it" tvg-name="Tennis Channel" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport",TENNIS CHANNEL (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2716316208/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1 (2)" tvg-logo="" group-title="Sport",EUROSPORT 1 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3481346857/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 2 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1939210164/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove (2)" tvg-logo="" group-title="Documentari;Discovery",DISCOVERY NOVE (V) (2)
+#EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari;Discovery",DISCOVERY NOVE (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2651461317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 1 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1225653759/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo (2)" tvg-logo="" group-title="Sky",CIELO (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2719953688/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1281264885/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="Zona Dazn" tvg-logo="https://www.digital-news.it/img/palinsesti/2023/12/1701423631-zona-dazn.webp" group-title="Sport",ZONA DAZN (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2911178456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
+#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4 (2)" tvg-logo="" group-title="Mediaset",RETE 4 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4198218214/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2179822223/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA FAMILY (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3216516117/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="Mediaset 20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",MEDIASET 20 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3134481201/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2924135092/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1699876530/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -183,41 +192,29 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/169
 #EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3475299702/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax (2)" tvg-logo="" group-title="Discovery",DMAX (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3008151733/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3618643172/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 3 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/869117599/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1421393119/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA FAMILY (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/415795144/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ROMANCE (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2890008905/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574975196/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/11090349/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1890950169/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="Rai 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI 4K (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2049087681/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4246774056/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/573618724/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Discovery",TOP CRIME (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3420407456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/573618724/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 4 (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4241820180/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1228534500/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 9 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1753260677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -228,23 +225,20 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/841
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/380958472/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic (2)" tvg-logo="" group-title="Sky",SKY ATLANTIC (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1482866609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="mediaset1.it" tvg-name="Mediaset 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET 1 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/633342961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/374675593/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 5 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2909818756/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Sky",TV 8 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4038365720/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1989309231/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3802167244/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2455610203/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2767861049/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -252,8 +246,8 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/276
 #EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 6 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3939513684/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5 (2)" tvg-logo="" group-title="Altro",LA 5 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1425667375/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2283887097/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1492183364/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -261,11 +255,14 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/149
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2130523218/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2330574729/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 4 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2416993844/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3376031355/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1376440573/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2268489342/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/877200714/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -273,113 +270,131 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/877
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Intrattenimento;Rai Tv",RAI 5 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3163380543/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 4 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3137990890/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/576490047/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="Notizie;Mediaset",TG COM 24 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1785098768/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3039389215/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2066326916/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4272937805/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3039389215/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 5 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2255083866/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie (2)" tvg-logo="" group-title="Film;Rai Tv",RAI MOVIE (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2835672487/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="boingplus.it" tvg-name="Boing Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3841982646/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2745635299/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="Hgtv" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Discovery",HGTV (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4248997029/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 8 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2130255339/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/444768053/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V)
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 5 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3249873828/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2861734300/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Intrattenimento;Rai Tv",RAI STORIA (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/78838793/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3022771961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="frisbee.it" tvg-name="Frisbee" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/frisbee-it.png" group-title="Bambini",FRISBEE (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1995860185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="Giallo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4060499455/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing (2)" tvg-logo="" group-title="Bambini",BOING (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3373510242/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2134724757/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="sportitaliasolocalcio.it" tvg-name="Sport Italia Solo Calcio [live During Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport;Mediaset",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/830949486/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/433893159/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2 (2)" tvg-logo="" group-title="Bambini",K2 (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2255724318/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/924661659/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="sportitaliasolocalcio.it" tvg-name="Sportitalia Solocalcio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport;Mediaset",SPORTITALIA SOLOCALCIO (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2198410339/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/363506221/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="mediasetinfinity+5.it" tvg-name="Mediaset Infinity+ 5" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 5 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/588488827/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3810188456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno (2)" tvg-logo="" group-title="Sport",SKY SPORT UNO (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3192996672/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila12.it" tvg-name="Sky Primafila 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 12 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2221901869/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rakutenfamily.it" tvg-name="Rakuten Family" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN FAMILY (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3902650955/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove (2)" tvg-logo="" group-title="Documentari;Discovery",DISCOVERY NOVE (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574591400/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ACTION (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3812796171/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1144128726/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="Zona Dazn" tvg-logo="https://www.digital-news.it/img/palinsesti/2023/12/1701423631-zona-dazn.webp" group-title="Sport",ZONA DAZN (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2911178456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA SUSPENSE (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3060043751/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo (2)" tvg-logo="" group-title="Sky",CIELO (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3743894403/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 1 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1225653759/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2828455552/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax (2)" tvg-logo="" group-title="Discovery",DMAX (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3008151733/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte (2)" tvg-logo="" group-title="Documentari;Sky",SKY ARTE (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1806815496/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 3 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/869117599/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic (2)" tvg-logo="" group-title="Sky",SKY ATLANTIC (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1421393119/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno (2)" tvg-logo="" group-title="Sky",SKY UNO (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/322024849/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 8 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1440779061/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network (2)" tvg-logo="" group-title="Bambini",CARTOON NETWORK (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1289777017/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA SUSPENSE (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1820997555/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4246774056/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1989309231/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="mediaset1.it" tvg-name="Mediaset 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET 1 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/633342961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT [LIVE DURING EVENTS ONLY] (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/551730224/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 5 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2909818756/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time (2)" tvg-logo="" group-title="Intrattenimento;Discovery",REAL TIME (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2251241999/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/326825326/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf (2)" tvg-logo="" group-title="Sport",SKY SPORT GOLF (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3897711086/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24 (2)" tvg-logo="" group-title="Notizie;Rai Tv",RAI NEWS 24 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2272923972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5 (2)" tvg-logo="" group-title="Altro",LA 5 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1425667375/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 2 (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/525374356/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1925964148/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Sky Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/558282118/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 4 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2416993844/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte (2)" tvg-logo="" group-title="Documentari;Sky",SKY ARTE (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1902695925/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2317684453/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 10 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2268489342/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",FOCUS (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2982550433/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -387,11 +402,23 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/298
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2711959620/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2330574729/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3376031355/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3554841914/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 4 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3137990890/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (BACKUP) (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2242741766/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="Notizie;Mediaset",TG COM 24 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1785098768/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8 (2)" tvg-logo="" group-title="Sky",TV 8 (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2706291008/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -402,17 +429,11 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/625
 #EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 1 (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1944682394/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 10 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4272937805/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="crime+investigation.it" tvg-name="Crime+ Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Discovery",CRIME+ INVESTIGATION (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3005227700/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 5 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2255083866/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie (2)" tvg-logo="" group-title="Film;Rai Tv",RAI MOVIE (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2835672487/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2745635299/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="la7.it" tvg-name="La 7 (2)" tvg-logo="" group-title="Altro",LA 7 (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/775530063/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -423,23 +444,17 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/282
 #EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twentyseven" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",27 TWENTYSEVEN (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/80896559/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network (2)" tvg-logo="" group-title="Bambini",CARTOON NETWORK (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1744435623/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="tennischannel.it" tvg-name="Tennis Channel" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport",TENNIS CHANNEL (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2716316208/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 8 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2130255339/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2 (2)" tvg-logo="" group-title="Altro",RSI LA 2 (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3590183307/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 6 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3251217290/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel (2)" tvg-logo="" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1955739367/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/444768053/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 6 (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3251217290/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila17.it" tvg-name="Sky Primafila 17" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 17 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1284441949/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -468,23 +483,26 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/269
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Mediaset Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Intrattenimento;Mediaset",MEDIASET IRIS (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/23919988/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 5 (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3249873828/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Intrattenimento;Rai Tv",RAI STORIA (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/78838793/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1886684667/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3022771961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1 (2)" tvg-logo="" group-title="Altro",RSI LA 1 (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2290395046/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (BACKUP) (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2178717282/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 7 (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4238969402/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="frisbee.it" tvg-name="Frisbee" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/frisbee-it.png" group-title="Bambini",FRISBEE (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1995860185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (BACKUP) (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2178717282/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1987220436/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3009377513/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -492,10 +510,7 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/300
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2007798511/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1987220436/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
+#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/317837654/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="Hgtv (2)" tvg-logo="" group-title="Discovery",HGTV (V) (2)
@@ -510,26 +525,23 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/963
 #EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 3 (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/153693434/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2134724757/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="sportitaliasolocalcio.it" tvg-name="Sport Italia Solo Calcio [live During Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport;Mediaset",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/830949486/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="super!.it" tvg-name="Super! (2)" tvg-logo="" group-title="Bambini",SUPER! (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3550030443/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/433893159/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI STORIA (V) (2)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/57338653/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing (2)" tvg-logo="" group-title="Bambini",BOING (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3373510242/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis (2)" tvg-logo="" group-title="Sport",SUPER TENNIS (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3213195143/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI STORIA (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/57338653/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="nationalgeographicwild.it" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari;Sky",NAT GEO WILD (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3428501495/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3658277450/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila14.it" tvg-name="Sky Primafila 14" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 14 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/187661709/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -537,17 +549,17 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/187
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI YOYO (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1785501924/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/924661659/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Intrattenimento;Rai Tv",RAI GULP (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1901652742/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="italia2.it" tvg-name="Mediaset Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Intrattenimento;Mediaset",MEDIASET ITALIA 2 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3538009430/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito (2)" tvg-logo="" group-title="Bambini",CARTOONITO (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1907000512/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus (2)" tvg-logo="" group-title="Intrattenimento;Mediaset",FOCUS (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3439223610/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Intrattenimento;Rai Tv",RAI GULP (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1901652742/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2077387085/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -558,20 +570,11 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/180
 #EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2989824407/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="sportitaliasolocalcio.it" tvg-name="Sportitalia Solocalcio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport;Mediaset",SPORTITALIA SOLOCALCIO (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2198410339/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="raisport+.it" tvg-name="Rai Sport+" tvg-logo="" group-title="Sport;Rai Tv",RAI SPORT+ (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/843891896/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="italia2.it" tvg-name="Mediaset Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Intrattenimento;Mediaset",MEDIASET ITALIA 2 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3538009430/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24 (2)" tvg-logo="" group-title="Notizie;Sky",SKY TG 24 (V) (2)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/318057128/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3810188456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="mediasetitalia.it" tvg-name="Mediaset Italia" tvg-logo="https://www.italiasera.it/wp-content/uploads/2019/06/Mediaset-640x366.png" group-title="Intrattenimento;Mediaset",MEDIASET ITALIA (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1989562337/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -581,9 +584,6 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/303
 
 #EXTINF:-1 tvg-id="sportitaliaplus.it" tvg-name="Sportitalia Plus" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png" group-title="Sport;Mediaset",SPORTITALIA PLUS (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3342849313/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila12.it" tvg-name="Sky Primafila 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 12 (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2221901869/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila18.it" tvg-name="Sky Primafila 18" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 18 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3470758028/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -645,11 +645,11 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/322
 #EXTINF:-1 tvg-id="rakutenactionmovies.it" tvg-name="Rakuten Action Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN ACTION MOVIES (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3064811192/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="mediasetinfinity+5.it" tvg-name="Mediaset Infinity+ 5" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 5 (V)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/588488827/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="mediasetinfinity+2.it" tvg-name="Mediaset Infinity+ 2" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 2 (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2436070507/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rakutenfamily.it" tvg-name="Rakuten Family" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN FAMILY (V)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3902650955/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rakutentopfree.it" tvg-name="Rakuten Top Free" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TOP FREE (V)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1572866962/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1387,17 +1387,8 @@ https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https%3A//linear313-it-das
 #EXTINF:-1 tvg-id="SportCalcio_IT" tvg-name="CAMPIONATO EUROPEO U.21 - SLOVACCHIA MERCOLEDI 11 GIUGNO 20:45 Diretta Gol" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sky Sport (TN)
 https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
 
-#EXTINF:-1 tvg-id="Rai1" tvg-name="CAMPIONATO EUROPEO U.21 - SLOVACCHIA MERCOLEDI 11 GIUGNO 20:45 Italia - Moldavia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
-https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport UNO" tvg-logo="https://thisnot.business/loghi/logo.png" group-title="Sport;ThisNot", Sky Sport UNO (TN)
 https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd%3F%26ck%3DMDAzNmFhYTFkNjhjNmI0ODdlMjlhNWNiMDgwYThhMjg6YTNlOGRiM2ZmM2M4NzZmN2I0M2E5NjFiNjRhNjM0NzQ%3D&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474
-
-#EXTINF:-1 tvg-id="ZiggoSP2" tvg-name="CAMPIONATO EUROPEO U.21 - SLOVACCHIA MERCOLEDI 11 GIUGNO 20:45 Belgio - Galles" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Ziggo Sport (TN)
-https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601013140:UTC%2C10001003329222%2C87.212.140.171%2C20240601013140%2C3103_SP1V%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26_%3D1717205500296%26RTS%3D1717205500%26from%3D11%26hms_devid%3D579%26online%3D1717205500%26mag_hms%3D579%26ck%3DM2NmYTg2MjVmNjUwNDA2ZWJmNmE0ZDFlYTczN2Y1NzI6MDUzNGU3NDdjNzBiMzY0YWE3MjEwZTFiZjMxOTFkZjA%3D&key_id=3cfa8625f650406ebf6a4d1ea737f572&key=0534e747c70b364aa7210e1bf3191df0
-
-#EXTINF:-1 tvg-id="ArenaS2_ME" tvg-name="CAMPIONATO EUROPEO U.21 - SLOVACCHIA MERCOLEDI 11 GIUGNO 20:45 Croazia - Repubblica Ceca" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
-https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://bpkcdn.telekom.me/bpk-tv/arenasport_2/default/index.mpd&key_id=16c25e879df45ec298524e7d21404a98&key=80fe93c754faaebc8e8bdbfad7cfc107,4bd0cff22dc85ea5b225d7f9a952e965:acf2c5ff11f481972e0f5ceb979b25bb,0e496cb5280256678de0ac8c4a3f6eac:b70540aeb2f3609c9c3b69bffed51f50
 
 #EXTINF:-1 tvg-id="ESPN3_NL" tvg-name="CAMPIONATO EUROPEO U.21 - SLOVACCHIA MERCOLEDI 11 GIUGNO 02:45 Brasile - Paraguay" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", ESPN (TN)
 https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://bpm.tv.delta.nl/live/3038/3038_live.isml/playlist.mpd%3Fbk-network%3Dftth-mobile%26ck%3DODJhMTdiMWU5OGJmYzFjMzIzMTE3YTFiMWEwMzE5ZWU6YTU1NGQzYTRkMDcxYTM4Y2E4OTVmZTVlZTYzNTg2YTg%3D&key_id=82a17b1e98bfc1c323117a1b1a0319ee&key=a554d3a4d071a38ca895fe5ee63586a8
@@ -1411,8 +1402,14 @@ https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netpl
 #EXTINF:-1 tvg-id="ZiggoSP3" tvg-name="CAMPIONATO EUROPEO U.21 - SLOVACCHIA MERCOLEDI 11 GIUGNO 21:00 Polonia U.21 - Georgia U.21" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Ziggo (TN)
 https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601013401:UTC%2C10001003329222%2C87.212.140.171%2C20240601013401%2C3103_SP1G%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26_%3D1717205641752%26RTS%3D1717205641%26from%3D16%26hms_devid%3D538%26online%3D1717205641%26mag_hms%3D538%26ck%3DNGRiZWE0YjU3MTNhNGFhMWFlM2EyNTQ0Y2Q1MjJmYzc6YTgzMjNlYTk5YjJkNjIwMGE0OGUxYmMyNzMyMmQ1NDg%3D&key_id=4dbea4b5713a4aa1ae3a2544cd522fc7&key=a8323ea99b2d6200a48e1bc27322d548
 
+#EXTINF:-1 tvg-id="SportTennis_IT" tvg-name="ATP/WTA INTERNAZIONALI LUNEDI 9 GIUGNO - DOMENICA 15 GIUGNO 11:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sky Sport (TN)
+https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd%3F%26ck%3DMDAzNmZiN2M1NjRjNGViOTllMzEwZjVmYTgyYWIyZjI6NjQ3ZjA3YjY4NThhNjY5NDU2ZTczY2ExMDNiNGMyYzA%3D&key_id=0036fb7c564c4eb99e310f5fa82ab2f2&key=647f07b6858a669456e73ca103b4c2c0
+
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport NBA" tvg-logo="https://thisnot.business/loghi/logo.png" group-title="Sport;ThisNot", Sky Sport NBA (TN)
 https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53
+
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://thisnot.business/loghi/logo.png" group-title="Sport;ThisNot", Sky Sport F1 (TN)
+https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155
 
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://thisnot.business/loghi/logo.png" group-title="Sport;ThisNot", Sky Sport 24 (TN)
 https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd%3F%26ck%3DMDAzNjYzZGRmMWFjYjI1ZWE4OGE3Y2Y5NzNhZmMwZDU6MzVlYTkxYjQxNTFkNjk3NTAwNzk5OGMzMjhkYWVlNmM%3D&key_id=003663ddf1acb25ea88a7cf973afc0d5&key=35ea91b4151d6975007998c328daee6c
@@ -1427,11 +1424,71 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?d=https://di-kzbhv8pw.vo.lsw
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?d=https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24/chunklist.m3u8
 
 # Playlist generata da SkyStreaming
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 24 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Eurosport 1 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport260.it" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 260 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport253.it" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 253 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport251.it" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 251 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Eurosport 2 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport255.it" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 255 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Argentina vs Colombia" tvg-name="Argentina vs Colombia" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Argentina vs Colombia (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/argen/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Inghilterra vs Senegal" tvg-name="Inghilterra vs Senegal" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Inghilterra vs Senegal (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Iran vs Corea del Nord" tvg-name="Iran vs Corea del Nord" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Iran vs Corea del Nord (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/asia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Azerbaigian vs Ungheria" tvg-name="Azerbaigian vs Ungheria" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Azerbaigian vs Ungheria (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Brasile vs Paraguay" tvg-name="Brasile vs Paraguay" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Brasile vs Paraguay (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/brasile/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport254.it" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 254 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Golf (SS)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Arena (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport F1 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Arabia Saudita vs Australia" tvg-name="Arabia Saudita vs Australia" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Arabia Saudita vs Australia (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/asia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="USA vs Svizzera" tvg-name="USA vs Svizzera" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", USA vs Svizzera (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Max (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport257.it" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 257 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Uno (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Diretta Gol vs Qualificazioni Mondiali" tvg-name="Diretta Gol vs Qualificazioni Mondiali" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Diretta Gol vs Qualificazioni Mondiali (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport258.it" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 258 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Tennis (SS)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
@@ -1439,74 +1496,38 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/
 #EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport NBA (SS)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Uno (SS)
+#EXTINF:-1 tvg-id="Finlandia vs Polonia" tvg-name="Finlandia vs Polonia" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Finlandia vs Polonia (SS)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport259.it" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 259 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Diretta Gol vs Qualificazioni Mondiali" tvg-name="Diretta Gol vs Qualificazioni Mondiali" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Diretta Gol vs Qualificazioni Mondiali (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport260.it" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 260 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Max (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport253.it" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 253 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Arena (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport251.it" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 251 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport258.it" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 258 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport MotoGP (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="skysport261.it" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 261 (SS)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="skysport255.it" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 255 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Uzbekistan vs Qatar" tvg-name="Uzbekistan vs Qatar" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Uzbekistan vs Qatar (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/asia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="skysport254.it" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 254 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport252.it" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 252 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport256.it" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 256 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Estonia vs Norvegia" tvg-name="Estonia vs Norvegia" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Estonia vs Norvegia (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Liechtenstein vs Scozia" tvg-name="Liechtenstein vs Scozia" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Liechtenstein vs Scozia (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport257.it" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 257 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Eurosport 2 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Eurosport 1 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport F1 (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 24 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Calcio (SS)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="Italia vs Moldavia" tvg-name="Italia vs Moldavia" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Italia vs Moldavia (SS)
-https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/italia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="skysport259.it" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 259 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport252.it" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 252 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Perù vs Ecuador" tvg-name="Perù vs Ecuador" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Perù vs Ecuador (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/peru/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Bolivia vs Cile" tvg-name="Bolivia vs Cile" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Bolivia vs Cile (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/cile/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport256.it" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 256 (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport MotoGP (SS)
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="Asian Cup Qualification - Myanmar vs Pakistan" tvg-name="12:30 Asian Cup Qualification : Myanmar vs Pakistan - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",A Sports Pakistan
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium269/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36

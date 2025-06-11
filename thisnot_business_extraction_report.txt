@@ -41,6 +41,138 @@ Pagina Evento: https://thisnot.business/player.php?id=SportUno_IT
   Dettagli: Categoria='TENNIS', Evento='11:00 Live', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd%3F%26ck%3DMDAzNmFhYTFkNjhjNmI0ODdlMjlhNWNiMDgwYThhMjg6YTNlOGRiM2ZmM2M4NzZmN2I0M2E5NjFiNjRhNjM0NzQ%3D&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474
 
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='17:00 Bulgaria v Italia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
+  Dettagli: Categoria='PALLAVOLO', Evento='19:00 Ukraine v USA', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
+  Dettagli: Categoria='PALLAVOLO', Evento='22:30 Argentina v France', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='22:30 Brazil v Iran', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='02:00 Germany v Canada', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
+  Dettagli: Categoria='PALLAVOLO', Evento='02:00 Slovenia v Cuba', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='11:00 Cina v Serbia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='14:30 Polonia v Giappone', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
+  Dettagli: Categoria='PALLAVOLO', Evento='22:30 Germania v Italia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='22:30 Brazil v Cuba', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='01:45 Usa v Iran', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
+  Dettagli: Categoria='PALLAVOLO', Evento='01:45 Argentina v Canada', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='11:00 Giappone v Serbia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='14:30 Olanda v Turchia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
+  Dettagli: Categoria='PALLAVOLO', Evento='22:30 Ucraina v Cuba', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='22:30 Bulgaria v Argentina', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='01:45 Francia v Italia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
+  Dettagli: Categoria='PALLAVOLO', Evento='01:45 Iran v Slovenia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
+  Dettagli: Categoria='PALLAVOLO', Evento='09:00 Cina v Olanda', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='13:00 Turchia v Polonia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='15:00 Ucraina v Brasile', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
+  Dettagli: Categoria='PALLAVOLO', Evento='18:30 USA v Slovenia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='22:30 Canada v Francia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='01:45 Bulgaria v Germania', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
+  Dettagli: Categoria='PALLAVOLO', Evento='05:30 Olanda v Giappone', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
+  Dettagli: Categoria='PALLAVOLO', Evento='09:00 Cina v Turchia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='13:00 Polonia v Serbia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='15:00 Brasile v Slovenia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP3
+  Dettagli: Categoria='PALLAVOLO', Evento='17:00 Argentina v Italia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd&key_id=03ddf71c8dae4e8d8b171fb81ecfe609&key=fc80cf8969cf1b3c2c061eadb94e1330
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
+  Dettagli: Categoria='PALLAVOLO', Evento='18:30 Ucraina v Iran', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='20:30 Germania v Francia', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
+  Dettagli: Categoria='PALLAVOLO', Evento='22:00 Cuba v USA', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
+  Dettagli: Categoria='PALLAVOLO', Evento='23:50 Bulgaria v Canada', Canale='Polsat Sport'
+  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
 Pagina Evento: https://thisnot.business/player.php?id=SportNBA_IT
   Dettagli: Categoria='BASKET', Evento='02:30 Indiana Pacers v Oklahoma City Thunder', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53

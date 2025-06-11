@@ -18,6 +18,15 @@ https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear310-it-dash1
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport UNO" tvg-logo="https://thisnot.business/loghi/logo.png" group-title="Sport;ThisNot", Sky Sport UNO (TN)
 https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd%3F%26ck%3DMDAzNmFhYTFkNjhjNmI0ODdlMjlhNWNiMDgwYThhMjg6YTNlOGRiM2ZmM2M4NzZmN2I0M2E5NjFiNjRhNjM0NzQ%3D&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474
 
+#EXTINF:-1 tvg-id="PolsatSP1" tvg-name="NATIONS LEAGUE MASCHILE - CANADA MERCOLEDI 11 GIUGNO 23:50 Bulgaria v Canada" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Polsat Sport (TN)
+https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
+
+#EXTINF:-1 tvg-id="PolsatSP2" tvg-name="NATIONS LEAGUE MASCHILE - CANADA MERCOLEDI 11 GIUGNO 22:00 Cuba v USA" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Polsat Sport (TN)
+https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
+
+#EXTINF:-1 tvg-id="PolsatSP3" tvg-name="NATIONS LEAGUE MASCHILE - CANADA MERCOLEDI 11 GIUGNO 17:00 Argentina v Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Polsat Sport (TN)
+https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd&key_id=03ddf71c8dae4e8d8b171fb81ecfe609&key=fc80cf8969cf1b3c2c061eadb94e1330
+
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport NBA" tvg-logo="https://thisnot.business/loghi/logo.png" group-title="Sport;ThisNot", Sky Sport NBA (TN)
 https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53
 

@@ -71,6 +71,42 @@
       "url": "https://thisnot.business/player.php?id=SportUno_IT"
     }
   },
+  "https://thisnot.business/player.php?id=PolsatSP1": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e",
+    "info": {
+      "category": "PALLAVOLO",
+      "title": "NATIONS LEAGUE MASCHILE - CANADA",
+      "date": "MERCOLEDI 11 GIUGNO",
+      "event": "23:50 Bulgaria v Canada",
+      "channel": "Polsat Sport",
+      "language": "pl",
+      "url": "https://thisnot.business/player.php?id=PolsatSP1"
+    }
+  },
+  "https://thisnot.business/player.php?id=PolsatSP2": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23",
+    "info": {
+      "category": "PALLAVOLO",
+      "title": "NATIONS LEAGUE MASCHILE - CANADA",
+      "date": "MERCOLEDI 11 GIUGNO",
+      "event": "22:00 Cuba v USA",
+      "channel": "Polsat Sport",
+      "language": "pl",
+      "url": "https://thisnot.business/player.php?id=PolsatSP2"
+    }
+  },
+  "https://thisnot.business/player.php?id=PolsatSP3": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd&key_id=03ddf71c8dae4e8d8b171fb81ecfe609&key=fc80cf8969cf1b3c2c061eadb94e1330",
+    "info": {
+      "category": "PALLAVOLO",
+      "title": "NATIONS LEAGUE MASCHILE - CANADA",
+      "date": "MERCOLEDI 11 GIUGNO",
+      "event": "17:00 Argentina v Italia",
+      "channel": "Polsat Sport",
+      "language": "pl",
+      "url": "https://thisnot.business/player.php?id=PolsatSP3"
+    }
+  },
   "https://thisnot.business/player.php?id=SportNBA_IT": {
     "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53",
     "info": {

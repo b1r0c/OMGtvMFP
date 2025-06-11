@@ -23,6 +23,30 @@
       "url": "https://thisnot.business/player.php?id=SportUno_IT"
     }
   },
+  "https://thisnot.business/player.php?id=NPO3": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw4240008001_49452605/PLTV/42/224/3221236925/3221236925.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D42%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~WT8U_eIPMrEB0VzaEZLkvwa139c373aff0583e17f836c6b13da447~4HwzslRM2LJqOUtjRoxETDI84kB_zyj8fvpIrE4B2b_bJ-CgXgGEqGL_ynGkCe1eafd8207ea60c3cb9450f1d10701960c8~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601192003:UTC%2C10001003329222%2C87.212.140.171%2C20240601192003%2C3103_TV03%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26_%3D1717269603231%26RTS%3D1717269603%26from%3D16%26hms_devid%3D894%26online%3D1717269603%26mag_hms%3D894%2C892%2C1048%2C1049",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
+      "date": "MERCOLEDI 11 GIUGNO",
+      "event": "20:45 Olanda - Malta",
+      "channel": "NPO",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=NPO3"
+    }
+  },
+  "https://thisnot.business/player.php?id=ArenaS1_ME": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://bpkcdn.telekom.me/bpk-tv/arenasport_1/default/index.mpd&key_id=41c7579e600258b18dc099d15b3d98a4&key=949108e0652065214eccde89a1d51210,feaac16af596581f95f3cf14d9ffcbe9:f43096d1accd63771f6b4aaafe15e26d,69835a5f5b9851b6b1a20a195aa0b845:fc888aecf3ece044c37b2c8b0e672a69",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
+      "date": "MERCOLEDI 11 GIUGNO",
+      "event": "20:45 Serbia - Andorra",
+      "channel": "Arena Sport",
+      "language": "nl",
+      "url": "https://thisnot.business/player.php?id=ArenaS1_ME"
+    }
+  },
   "https://thisnot.business/player.php?id=ESPN3_NL": {
     "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://bpm.tv.delta.nl/live/3038/3038_live.isml/playlist.mpd%3Fbk-network%3Dftth-mobile%26ck%3DODJhMTdiMWU5OGJmYzFjMzIzMTE3YTFiMWEwMzE5ZWU6YTU1NGQzYTRkMDcxYTM4Y2E4OTVmZTVlZTYzNTg2YTg%3D&key_id=82a17b1e98bfc1c323117a1b1a0319ee&key=a554d3a4d071a38ca895fe5ee63586a8",
     "info": {
@@ -33,6 +57,18 @@
       "channel": "ESPN",
       "language": "nl",
       "url": "https://thisnot.business/player.php?id=ESPN3_NL"
+    }
+  },
+  "https://thisnot.business/player.php?id=Sport251_IT": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd&key_id=0036384f59a2b80ed142f82250c79f77&key=2e6507cb779a28739b0bb1564f418823",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
+      "date": "MERCOLEDI 11 GIUGNO",
+      "event": "20:45 Inghilterra - Senegal",
+      "channel": "Sky Sport",
+      "language": "nl",
+      "url": "https://thisnot.business/player.php?id=Sport251_IT"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP1": {

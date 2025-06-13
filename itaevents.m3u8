@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2025 PDRA North vs South Shootout - 2025 PDRA North vs South Shootout" tvg-name="23:30 2025 PDRA North vs South Shootout - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events",Floracing
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium55/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="DIRTcar Summer Nationals Late Models - DIRTcar Summer Nationals Late Models" tvg-name="00:30 DIRTcar Summer Nationals Late Models - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events",Dirtvision
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium59/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="2025 Appalachian Mountain LM Speedweek at Selinsgrove Speedway - 2025 Appalachian Mountain LM Speedweek at Selinsgrove Speedway" tvg-name="00:45 2025 Appalachian Mountain LM Speedweek at Selinsgrove Speedway - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events",Floracing
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium68/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="2025 Weekly Racing at Thunder Road Speedbowl - 2025 Weekly Racing at Thunder Road Speedbowl" tvg-name="01:00 2025 Weekly Racing at Thunder Road Speedbowl - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events",Floracing
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium69/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="OVW Live #1348 - OVW Live #1348" tvg-name="01:00 OVW Live #1348 - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events",Triller Tv
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium76/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="2025 NARC 410 Sprints at The Douglas County Dirtrack - 2025 NARC 410 Sprints at The Douglas County Dirtrack" tvg-name="02:45 2025 NARC 410 Sprints at The Douglas County Dirtrack - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events",Floracing
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium77/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="Poland II Liga - Wieczysta Krakow vs. KKS 1925 Kalisz - Poland II Liga" tvg-name="15:00 Poland II Liga : Wieczysta Krakow vs. KKS 1925 Kalisz - Poland II Liga - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",TVP Sport Poland HD
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium128/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 
@@ -706,6 +724,867 @@ https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/win
 
 #EXTINF:-1 tvg-id="World Open Classic Powerlifting Championships Women's 69kg & Men's 93kg | Chemnitz - World Open Classic Powerlifting Championships Women's 69kg & Men's 93kg | Chemnitz" tvg-name="19:00 World Open Classic Powerlifting Championships Women's 69kg & Men's 93kg | Chemnitz - 12/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sollevamento Pesi",Eurosport 2 SE
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium232/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Cork City vs Bohemians" tvg-name="20:45 Ireland Republic - Premier Division : Cork City vs Bohemians - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",LOITV
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium151/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Derry City vs Galway United" tvg-name="20:45 Ireland Republic - Premier Division : Derry City vs Galway United - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",LOITV
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium152/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Shelbourne vs Shamrock Rovers" tvg-name="20:45 Ireland Republic - Premier Division : Shelbourne vs Shamrock Rovers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",LOITV
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium153/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - St Patrick's vs Drogheda United" tvg-name="20:45 Ireland Republic - Premier Division : St Patrick's vs Drogheda United - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",LOITV
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium154/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Athlone Town vs Kerry" tvg-name="20:45 Ireland Republic - First Division : Athlone Town vs Kerry - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",LOITV
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium155/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Dundalk vs UCD" tvg-name="20:45 Ireland Republic - First Division : Dundalk vs UCD - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",LOITV
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium156/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Finn Harps vs Wexford" tvg-name="20:45 Ireland Republic - First Division : Finn Harps vs Wexford - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",LOITV
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium157/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Treaty United vs Bray Wanderers" tvg-name="20:45 Ireland Republic - First Division : Treaty United vs Bray Wanderers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",LOITV
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium158/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Korea Republic - K League 1 - Gwangju vs Seoul" tvg-name="12:30 Korea Republic - K League 1 : Gwangju vs Seoul - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Astro Football
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten24/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Maurice Revello Tournament - Denmark U20 vs Saudi Arabia U23" tvg-name="14:00 Maurice Revello Tournament : Denmark U20 vs Saudi Arabia U23 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",FOX Deportes
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium643/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Maurice Revello Tournament - Denmark U20 vs Saudi Arabia U23" tvg-name="14:00 Maurice Revello Tournament : Denmark U20 vs Saudi Arabia U23 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Sport TV1 Portugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium49/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Spain U19 vs Denmark U19" tvg-name="17:00 UEFA U19 European Championship : Spain U19 vs Denmark U19 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",4Seven UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium354/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Spain U19 vs Denmark U19" tvg-name="17:00 UEFA U19 European Championship : Spain U19 vs Denmark U19 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Sportdigital FUSSBALL DE
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium571/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Spain U19 vs Denmark U19" tvg-name="17:00 UEFA U19 European Championship : Spain U19 vs Denmark U19 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Canal 11 Portugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium540/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Spain U19 vs Denmark U19" tvg-name="17:00 UEFA U19 European Championship : Spain U19 vs Denmark U19 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",beIN Sports MENA 4
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium94/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Spain U19 vs Denmark U19" tvg-name="17:00 UEFA U19 European Championship : Spain U19 vs Denmark U19 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Sport 2 Israel
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium141/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Lithuanian League - Suduva vs Zalgiris Kaunas" tvg-name="18:00 Lithuanian League : Suduva vs Zalgiris Kaunas - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Sport Klub 4 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten4/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Maurice Revello Tournament - France U20 vs Mexico U20" tvg-name="18:00 Maurice Revello Tournament : France U20 vs Mexico U20 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",FOX Deportes
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium643/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Maurice Revello Tournament - France U20 vs Mexico U20" tvg-name="18:00 Maurice Revello Tournament : France U20 vs Mexico U20 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Sport TV1 Portugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium49/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Örebro vs Sandviken" tvg-name="19:00 Sweden - Superettan : Örebro vs Sandviken - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Max Extra 1 Sweden
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten7/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Lithuania - A Lyga - Džiugas Telšiai vs Panevėžys" tvg-name="19:15 Lithuania - A Lyga : Džiugas Telšiai vs Panevėžys - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",LRT Plius
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten8/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Romania U19 vs Montenegro U19" tvg-name="20:00 UEFA U19 European Championship : Romania U19 vs Montenegro U19 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Pro Arena Romania
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten1/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Romania U19 vs Montenegro U19" tvg-name="20:00 UEFA U19 European Championship : Romania U19 vs Montenegro U19 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Sportdigital FUSSBALL DE
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium571/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Romania U19 vs Montenegro U19" tvg-name="20:00 UEFA U19 European Championship : Romania U19 vs Montenegro U19 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Canal 11 Portugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium540/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Romania U19 vs Montenegro U19" tvg-name="20:00 UEFA U19 European Championship : Romania U19 vs Montenegro U19 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",beIN Sports MENA 4
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium94/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Romania U19 vs Montenegro U19" tvg-name="20:00 UEFA U19 European Championship : Romania U19 vs Montenegro U19 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Sport 2 Israel
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium141/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Uruguay - Primera Division - Torque vs Progreso" tvg-name="21:00 Uruguay - Primera Division : Torque vs Progreso - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",VTV+ Uruguay
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium391/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Uruguay - Primera Division - Torque vs Progreso" tvg-name="21:00 Uruguay - Primera Division : Torque vs Progreso - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",GOLTV USA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium597/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Uruguay - Primera Division - Cerro Largo vs Wanderers" tvg-name="23:15 Uruguay - Primera Division : Cerro Largo vs Wanderers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",VTV+ Uruguay
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium391/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Uruguay - Primera Division - Plaza Colonia vs Cerro" tvg-name="00:00 Uruguay - Primera Division : Plaza Colonia vs Cerro - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",GOLTV USA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium597/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NWSL - Houston Dash vs San Diego Wave" tvg-name="02:00 NWSL : Houston Dash vs San Diego Wave - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",CBS Sports Golazo USA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten10/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NWSL - Houston Dash vs San Diego Wave" tvg-name="02:00 NWSL : Houston Dash vs San Diego Wave - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",TSN2
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten12/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Chile - Primera Division - Deportes Limache vs Unión La Calera" tvg-name="02:00 Chile - Primera Division : Deportes Limache vs Unión La Calera - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",TNT SPORTS Premium HD Chile
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium642/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Brasileirão Série B - Paysandu SC vs Botafogo-SP" tvg-name="02:30 Brasileirão Série B : Paysandu SC vs Botafogo-SP - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",ESPN BR
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium81/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Argentina - Primera Nacional - Gimnasia y Tiro vs Quilmes" tvg-name="03:00 Argentina - Primera Nacional : Gimnasia y Tiro vs Quilmes - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",TyC Sports Argentina
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium746/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NWSL - Utah Royals vs NJ/NY Gotham FC" tvg-name="03:30 NWSL : Utah Royals vs NJ/NY Gotham FC - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",MSG USA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium765/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NWSL - Bay FC vs Orlando Pride" tvg-name="04:00 NWSL : Bay FC vs Orlando Pride - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Optus Sport
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten18/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Major League Soccer - Portland Timbers vs SJ Earthquakes" tvg-name="04:30 Major League Soccer : Portland Timbers vs SJ Earthquakes - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",Fox Sports 1 USA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium39/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Major League Soccer - Portland Timbers vs SJ Earthquakes" tvg-name="04:30 Major League Soccer : Portland Timbers vs SJ Earthquakes - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",FOX Deportes
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium643/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Major League Soccer - Los Angeles FC vs Toronto FC" tvg-name="04:30 Major League Soccer : Los Angeles FC vs Toronto FC - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",MLS Season Pass
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten19/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Borges N. vs Humbert U." tvg-name="11:00 ATP - HERTOGENBOSCH : Borges N. vs Humbert U. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Hertogenbosch",Tennis Stream 7
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten7/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Diallo G. vs Khachanov K." tvg-name="12:30 ATP - HERTOGENBOSCH : Diallo G. vs Khachanov K. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Hertogenbosch",Tennis Stream 7
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten7/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Medvedev D. vs Opelka R." tvg-name="14:30 ATP - HERTOGENBOSCH : Medvedev D. vs Opelka R. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Hertogenbosch",Tennis Stream 9
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten9/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Medvedev D. vs Opelka R." tvg-name="14:30 ATP - HERTOGENBOSCH : Medvedev D. vs Opelka R. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Hertogenbosch",Tennis Stream 7
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten7/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Bergs Z. vs Lajal M." tvg-name="16:00 ATP - HERTOGENBOSCH : Bergs Z. vs Lajal M. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Hertogenbosch",Tennis Stream 7
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten7/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Engel J. vs Auger-Aliassime F." tvg-name="11:00 ATP - STUTTGART : Engel J. vs Auger-Aliassime F. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Stuttgart",Tennis Stream 8
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten8/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Fucsovics M. vs Fritz T." tvg-name="12:30 ATP - STUTTGART : Fucsovics M. vs Fritz T. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Stuttgart",Tennis Stream 8
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten8/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Nakashima B." tvg-name="15:00 ATP - STUTTGART : Zverev A. vs Nakashima B. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Stuttgart",Tennis Stream 8
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten8/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Shelton B. vs Lehecka J." tvg-name="17:00 ATP - STUTTGART : Shelton B. vs Lehecka J. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Stuttgart",Tennis Stream 8
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten8/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Kudermetova V. vs Alexandrova E." tvg-name="11:00 WTA - HERTOGENBOSCH : Kudermetova V. vs Alexandrova E. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Hertogenbosch",Tennis Stream 3
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten3/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Yuan Y. vs Mertens E." tvg-name="12:30 WTA - HERTOGENBOSCH : Yuan Y. vs Mertens E. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Hertogenbosch",Tennis Stream 3
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten3/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Cocciaretto E. vs Lamens S." tvg-name="14:30 WTA - HERTOGENBOSCH : Cocciaretto E. vs Lamens S. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Hertogenbosch",Tennis Stream 4
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten4/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Ruse G. vs Andreescu B." tvg-name="16:00 WTA - HERTOGENBOSCH : Ruse G. vs Andreescu B. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Hertogenbosch",Tennis Stream 4
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten4/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA - LONDON - Shnaider D. vs Keys M." tvg-name="13:00 WTA - LONDON : Shnaider D. vs Keys M. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - London",Tennis Stream 1
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten1/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Rybakina E." tvg-name="14:30 WTA - LONDON : Maria T. vs Rybakina E. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - London",Tennis Stream 1
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten1/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA - LONDON - Zheng Q. vs Raducanu E." tvg-name="16:00 WTA - LONDON : Zheng Q. vs Raducanu E. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - London",Tennis Stream 1
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten1/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA - LONDON - Navarro E. vs Anisimova A." tvg-name="17:30 WTA - LONDON : Navarro E. vs Anisimova A. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - London",Tennis Stream 1
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten1/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Tennis Channel
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium40/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Sky Sports Tennis UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium46/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",TV4 Tennis
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten1/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",beIN SPORTS 2 France
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten17/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Cosmote Sport 7 HD
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium628/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Max Sport 1 Bulgaria
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium472/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Arena Sport 1 Serbia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium429/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Sky Sports Tennis DE
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium884/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Cytavision Sports 5 Cyprus
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten15/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Cytavision Sports 7 Cyprus
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten17/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Ziggo Sport 1 NL
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium393/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Ziggo Sport 4 NL
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium396/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Ziggo Sport 35 NL
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium383/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",beIN SPORTS Australia 1
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium491/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",beIN SPORTS Australia 2
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium492/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",beIN Sports 2 Malaysia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten13/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",beIN Sports 3 Malaysia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten14/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Sport Klub 2 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten2/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Sport Klub HD Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium453/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch" tvg-name="11:00 WTA 500 London & ATP 250 Stuttgart & WTA 250 + ATP 250 Hertogenbosch - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis",Sport 5 Live Israel
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium146/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WorldSBK | Round 6 | Misano Free Practice 1 - WorldSBK | Round 6 | Misano Free Practice 1" tvg-name="09:30 WorldSBK | Round 6 | Misano Free Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",TNT Sports 2 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium32/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WorldSBK | Round 6 | Misano Free Practice 1 - WorldSBK | Round 6 | Misano Free Practice 1" tvg-name="09:30 WorldSBK | Round 6 | Misano Free Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sky Sport 5 NZ
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium592/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WorldSSP | Round 6 | Misano Superpole - WorldSSP | Round 6 | Misano Superpole" tvg-name="13:45 WorldSSP | Round 6 | Misano Superpole - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",TNT Sports 2 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium32/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WorldSSP | Round 6 | Misano Superpole - WorldSSP | Round 6 | Misano Superpole" tvg-name="13:45 WorldSSP | Round 6 | Misano Superpole - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sky Sport 9 NZ
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium596/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WorldSBK | Round 6 | Misano Free Practice 2 - WorldSBK | Round 6 | Misano Free Practice 2" tvg-name="15:00 WorldSBK | Round 6 | Misano Free Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",TNT Sports 2 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium32/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WorldSBK | Round 6 | Misano Free Practice 2 - WorldSBK | Round 6 | Misano Free Practice 2" tvg-name="15:00 WorldSBK | Round 6 | Misano Free Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sky Sport 9 NZ
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium596/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F1 Academy - Canadian Grand Practice Session - Montreal" tvg-name="17:00 F1 Academy : Canadian Grand Practice Session - Montreal - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sky Sports F1 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium60/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F1 Academy - Canadian Grand Practice Session - Montreal" tvg-name="17:00 F1 Academy : Canadian Grand Practice Session - Montreal - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",beIN Sports 1 Malaysia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten12/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F1 Academy - Canadian Grand Practice Session - Montreal" tvg-name="17:00 F1 Academy : Canadian Grand Practice Session - Montreal - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Bandsports Brasil
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium275/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 1" tvg-name="19:00 European Rally Championship Poland: Stage 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Rally Tv
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten7/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="European Rally Championship Poland - Stage 1" tvg-name="19:00 European Rally Championship Poland: Stage 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",TV4 Motor
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten2/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="FIM Speedway GP | Round 4 | Manchester Race 1 - FIM Speedway GP | Round 4 | Manchester Race 1" tvg-name="19:30 FIM Speedway GP | Round 4 | Manchester Race 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",TNT Sports 1 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium31/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="FIM Speedway GP | Round 4 | Manchester Race 1 - FIM Speedway GP | Round 4 | Manchester Race 1" tvg-name="19:30 FIM Speedway GP | Round 4 | Manchester Race 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",TNT Sports 5 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten11/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sky Sports F1 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium60/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",ESPNU USA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten16/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sky Sport F1 DE
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium274/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",DAZN F1 ES
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium537/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Canal+ Sport France
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten22/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Canal+ Formula 1
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium273/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sky Sport 3 NZ
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium590/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sky Sports F1 Italy
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",ANT+ F1 Greece
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium774/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Vodafone Sport
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium260/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sport Klub 1 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten1/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Arena Premium 2 Serbia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium135/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",V Sport Motor Sweden
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium272/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",TV3 Sport Denmark
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten9/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Bandsports Brasil
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium275/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",beIN Sports 1 Malaysia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten12/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",ESPN Deportes
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium375/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Fox Sports 1 MX
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium929/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 1" tvg-name="19:30 Formula 1 : Pirelli Canadian Grand Prix - Practice 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",beIN Sports MENA 8
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium98/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F1 Academy - Canadian Grand Qualifying Session - Montreal" tvg-name="22:00 F1 Academy : Canadian Grand Qualifying Session - Montreal - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sky Sports F1 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium60/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F1 Academy - Canadian Grand Qualifying Session - Montreal" tvg-name="22:00 F1 Academy : Canadian Grand Qualifying Session - Montreal - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",beIN Sports 1 Malaysia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten12/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F1 Academy - Canadian Grand Qualifying Session - Montreal" tvg-name="22:00 F1 Academy : Canadian Grand Qualifying Session - Montreal - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Bandsports Brasil
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium275/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sky Sports F1 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium60/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",ESPNU USA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten16/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",TSN3
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten13/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",TSN5
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten15/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sky Sport F1 DE
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium274/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",DAZN F1 ES
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium537/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Canal+ Sport France
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten22/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Canal+ Formula 1
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium273/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sky Sport 3 NZ
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium590/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sky Sports F1 Italy
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium577/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",ANT+ F1 Greece
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium774/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Vodafone Sport
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium260/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Sport Klub 1 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten1/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",TV3 Sport Denmark
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten9/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Arena Premium 2 Serbia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium135/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",V Sport Motor Sweden
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium272/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Bandsports Brasil
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium275/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",beIN Sports 1 Malaysia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten12/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",Fox Sports 1 MX
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium929/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",ESPN Deportes
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium375/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Formula 1 - Pirelli Canadian Grand Prix - Practice 2" tvg-name="23:00 Formula 1 : Pirelli Canadian Grand Prix - Practice 2 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport",beIN Sports MENA 8
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium98/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Boxing - Andrew Tabiti vs Jacob Dickson" tvg-name="20:00 Boxing : Andrew Tabiti vs Jacob Dickson - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe",DAZN PPV
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium55/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Polish Boxing League - KKB Rushh Kielce vs RKB Wisłok 1995 Rzeszow" tvg-name="20:10 Polish Boxing League : KKB Rushh Kielce vs RKB Wisłok 1995 Rzeszow - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe",TVP Sport Poland
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium128/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Boxing - LeAnna Cruz vs Regina Chavez" tvg-name="02:00 Boxing : LeAnna Cruz vs Regina Chavez - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe",DAZN PPV
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium59/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ONE Friday Fights - ONE Friday Fights" tvg-name="14:30 ONE Friday Fights - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma",PPV Feed
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium59/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ONE Friday Fights - ONE Friday Fights" tvg-name="14:30 ONE Friday Fights - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma",Match TV Russia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium127/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ONE Friday Fights - ONE Friday Fights" tvg-name="14:30 ONE Friday Fights - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma",Nova Sports 5 Greece
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium635/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ONE Friday Fights - ONE Friday Fights" tvg-name="14:30 ONE Friday Fights - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma",Match Box Russia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium395/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ONE Friday Fights - ONE Friday Fights" tvg-name="14:30 ONE Friday Fights - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma",RMC Sport 2 France
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten20/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ONE Friday Fights - ONE Friday Fights" tvg-name="14:30 ONE Friday Fights - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma",Bandsports Brasil
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium275/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ONE Friday Fights - ONE Friday Fights" tvg-name="14:30 ONE Friday Fights - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma",beIN SPORTS English 1
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium61/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ONE Friday Fights - ONE Friday Fights" tvg-name="14:30 ONE Friday Fights - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma",beIN SPORTS 1
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium91/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe",Netflix PPV
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten1/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe",USA Network
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium343/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="CFL - Ottawa Redblacks vs Montreal Alouettes" tvg-name="01:30 CFL : Ottawa Redblacks vs Montreal Alouettes - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football",TSN1
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten11/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="CFL - Ottawa Redblacks vs Montreal Alouettes" tvg-name="01:30 CFL : Ottawa Redblacks vs Montreal Alouettes - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football",TSN5
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten15/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="CFL - Ottawa Redblacks vs Montreal Alouettes" tvg-name="01:30 CFL : Ottawa Redblacks vs Montreal Alouettes - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football",RDS CA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium839/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="E1 Series - Dubrovnik: Qualification Elimination Races" tvg-name="16:00 E1 Series: Dubrovnik: Qualification Elimination Races - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica",DAZN1 DE
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten26/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ICF Canoe Slalom World Cup Day 1 - ICF Canoe Slalom World Cup Day 1" tvg-name="17:00 ICF Canoe Slalom World Cup Day 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica",Sky Sport 4 NZ
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium591/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Athletics International Meeting of Seine-et-Marne 2025 - Athletics International Meeting of Seine-et-Marne 2025" tvg-name="19:00 Athletics International Meeting of Seine-et-Marne 2025 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica",Movistar Deportes 2 Spain
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium438/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBL - Otago Nuggets vs Nelson Giants" tvg-name="08:30 NBL : Otago Nuggets vs Nelson Giants - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Sky Sport 4 NZ
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium591/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Romania LNBM Mozzart - Clubul Sportiv Vâlcea 1924 vs CSO Voluntari" tvg-name="16:50 Romania LNBM Mozzart : Clubul Sportiv Vâlcea 1924 vs CSO Voluntari - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Digi Sport 3 Romania
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten2/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="MTS Streetball League - Sokobanja" tvg-name="18:00 MTS Streetball League : Sokobanja - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Arena Sport 3 Serbia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium431/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Men's Basketball National League - Men's Basketball National League" tvg-name="18:00 Men's Basketball National League - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Digi Sports 3 Romania
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten2/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Romania LNBM Mozzart - CSM Oradea vs U-Banca Transilvania Cluj-Napoca" tvg-name="19:30 Romania LNBM Mozzart : CSM Oradea vs U-Banca Transilvania Cluj-Napoca - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Digi Sport 1 Romania
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium400/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="LPB - FC Porto vs. Benfica Lisboa" tvg-name="19:50 LPB : FC Porto vs. Benfica Lisboa - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",RTP 2 Portugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten20/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="LPB - FC Porto vs. Benfica Lisboa" tvg-name="19:50 LPB : FC Porto vs. Benfica Lisboa - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Porto Canal Portugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten18/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Polish Basketball League - Anwil Wroclawek vs. Trefl Sopot" tvg-name="20:30 Polish Basketball League : Anwil Wroclawek vs. Trefl Sopot - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Polsat Sport 3 Poland
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium129/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Italy Serie A2 Gold - Pallacanestro Cantu vs. Rinascita Basket Rimini" tvg-name="20:45 Italy Serie A2 Gold : Pallacanestro Cantu vs. Rinascita Basket Rimini - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Rai Sport 1 IT
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium882/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs. CB Malaga" tvg-name="21:15 ACB : Real Madrid vs. CB Malaga - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Movistar Deportes Spain
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium436/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs. CB Malaga" tvg-name="21:15 ACB : Real Madrid vs. CB Malaga - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Sportdigital+ DE
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium640/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs. CB Malaga" tvg-name="21:15 ACB : Real Madrid vs. CB Malaga - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",DAZN Eleven 1 Portugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium455/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs. CB Malaga" tvg-name="21:15 ACB : Real Madrid vs. CB Malaga - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Arena Premium 1 Serbia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium134/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs. CB Malaga" tvg-name="21:15 ACB : Real Madrid vs. CB Malaga - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Cosmote Sport 7 Greece
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium628/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs. CB Malaga" tvg-name="21:15 ACB : Real Madrid vs. CB Malaga - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Sport Klub 3 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten3/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs. CB Malaga" tvg-name="21:15 ACB : Real Madrid vs. CB Malaga - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Sport 1 Israel
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium140/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Brazil NBB - Minas Tênis Clube vs Sesi Franca Basquete" tvg-name="00:30 Brazil NBB : Minas Tênis Clube vs Sesi Franca Basquete - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",ESPN2 BR
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium83/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky vs Atlanta Dream Live" tvg-name="01:30 WNBA : Chicago Sky vs Atlanta Dream Live - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",ION USA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten25/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="WNBA - Dallas Wings vs Las Vegas Aces Live" tvg-name="04:00 WNBA : Dallas Wings vs Las Vegas Aces Live - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",ION USA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten25/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Home Feed
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten1/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Away Feed
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten2/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",TNT Sports 1 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium31/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",ABC USA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium51/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",ABC NY USA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium766/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Movistar Deportes Spain
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium436/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",TSN4
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten14/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",RDS 2 CA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium840/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",TSN3
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten13/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Sport TV1 Portugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium49/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",CANAL+ Sport Poland
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium48/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",beIN Sports 1 France
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten16/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",ESPN Deportes
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium375/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",ESPN 1 NL
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium379/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",TV2 Sport X Denmark
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten8/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Arena 1 Premium Serbia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium134/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Cosmote Sport 4 Greece
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten25/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Arena Sport 1 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium432/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",ESPN 2 Mexico
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten26/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",TV4 Sportkanalen
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten7/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",ESPN 2 Argentina
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium150/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Cytavision Sports 6 Cyprus
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten16/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Diema Sport 2 Bulgaria
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium466/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Indiana Pacers" tvg-name="02:30 NBA : Oklahoma City Thunder vs Indiana Pacers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket",Sport 5 Israel
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium144/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F. Praia - 1/4 Final - EURO Winner S Cup" tvg-name="10:30 F. Praia: 1/4 Final - EURO Winner S Cup - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Beach Soccer",Sport TV5 Poutugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium290/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F. Praia - 1/4 Final - EURO Winner S Cup" tvg-name="11:45 F. Praia: 1/4 Final - EURO Winner S Cup - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Beach Soccer",Sport TV5 Poutugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium290/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F. Praia - 1/4 Final - EURO Winner S Cup" tvg-name="13:00 F. Praia: 1/4 Final - EURO Winner S Cup - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Beach Soccer",Sport TV5 Poutugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium290/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F. Praia - 1/4 Final - EURO Winner S Cup" tvg-name="14:15 F. Praia: 1/4 Final - EURO Winner S Cup - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Beach Soccer",Sport TV5 Poutugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium290/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F. Praia - 1/4 Final - EURO Winner S Cup" tvg-name="15:30 F. Praia: 1/4 Final - EURO Winner S Cup - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Beach Soccer",Sport TV5 Poutugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium290/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F. Praia - 1/4 Final - EURO Winner S Cup" tvg-name="17:00 F. Praia: 1/4 Final - EURO Winner S Cup - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Beach Soccer",Sport TV5 Poutugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium290/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F. Praia - 1/4 Final - EURO Winner S Cup" tvg-name="18:30 F. Praia: 1/4 Final - EURO Winner S Cup - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Beach Soccer",Sport TV5 Poutugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium290/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="F. Praia - 1/4 Final - EURO Winner S Cup" tvg-name="20:00 F. Praia: 1/4 Final - EURO Winner S Cup - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Beach Soccer",Sport TV5 Poutugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium290/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Judo - World Championships World Championships. Day 1. Playoffs." tvg-name="10:00 Judo: World Championships World Championships. Day 1. Playoffs. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports",RMC Sport 1 France
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten19/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Judo - World Championships World Championships. Day 1. Final Rounds." tvg-name="17:45 Judo: World Championships World Championships. Day 1. Final Rounds. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports",RMC Sport 1 France
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten19/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Judo - World Championships World Championships. Day 1. Final Rounds." tvg-name="17:45 Judo: World Championships World Championships. Day 1. Final Rounds. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports",Match Box Russia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium395/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Judo - World Championships World Championships. Day 1. Final Rounds." tvg-name="17:45 Judo: World Championships World Championships. Day 1. Final Rounds. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports",Match TV Russia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium127/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Judo - World Championships World Championships. Day 1. Final Rounds." tvg-name="17:45 Judo: World Championships World Championships. Day 1. Final Rounds. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports",Combate Brazil
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium89/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Judo - World Championships World Championships. Day 1. Final Rounds." tvg-name="17:45 Judo: World Championships World Championships. Day 1. Final Rounds. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports",Sport TV3 Portugal (CH-454) } SporTV2 BR
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium79/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Judo - World Championships World Championships. Day 1. Final Rounds." tvg-name="17:45 Judo: World Championships World Championships. Day 1. Final Rounds. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Combat Sports",Sport 5 Israel
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium144/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Dubrovnik - Group Stages Race off - Dubrovnik - Group Stages Race off" tvg-name="14:30 Dubrovnik - Group Stages Race off - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sailing / Boating",CBS Sports Network
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten8/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="UCI World Tour - UCI Grosser Preis des Kantons Aargau Live 2025 Grosser Preis des Kantons Aargau - UCI World Tour - UCI Grosser Preis des Kantons Aargau Live 2025 Grosser Preis des Kantons Aargau" tvg-name="13:10 UCI World Tour - UCI Grosser Preis des Kantons Aargau Live 2025 Grosser Preis des Kantons Aargau - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",TNT Sports 6 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten12/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Tour of Switzerland | Stage 2 Women | Gstaad-Campus Sursee, Oberkirch (164.6km) - Tour of Switzerland | Stage 2 Women | Gstaad-Campus Sursee, Oberkirch (164.6km)" tvg-name="14:45 Tour of Switzerland | Stage 2 Women | Gstaad-Campus Sursee, Oberkirch (164.6km) - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",TNT Sports 4 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium34/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)" tvg-name="15:30 Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",France 3
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium951/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)" tvg-name="15:30 Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",TNT Sports 3 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium33/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)" tvg-name="15:30 Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",TNT Sports 1 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium31/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)" tvg-name="15:30 Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",Sky Sport 1 NZ
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium588/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)" tvg-name="15:30 Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",ESPN3 Brazil
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium83/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)" tvg-name="15:30 Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",EuroSport 1 Poland
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium57/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)" tvg-name="15:30 Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",EuroSport 1 Spain
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten24/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)" tvg-name="15:30 Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",EuroSport 1 France
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium772/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)" tvg-name="15:30 Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",Eurosport 1 SE
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium231/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)" tvg-name="15:30 Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",EuroSport 1 Italy
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium878/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)" tvg-name="15:30 Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",EuroSport 1 France
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium772/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)" tvg-name="15:30 Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo",EuroSport 1 Greece
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium41/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Equestrian - LOTTO CSIO Sopot 2025" tvg-name="12:00 Equestrian: LOTTO CSIO Sopot 2025 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Equestrian",Polsat Sport 3 Poland
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium129/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Equitation Global Champions Tour 2025 - Equitation Global Champions Tour 2025" tvg-name="17:30 Equitation Global Champions Tour 2025 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Equestrian",beIN Sports MAX 5 France
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium495/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="National Rugby League - Gold Coast Titans vs Manly Sea Eagles" tvg-name="12:00 National Rugby League : Gold Coast Titans vs Manly Sea Eagles - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League",Fox Soccer Plus
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium756/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="National Rugby League - Gold Coast Titans vs Manly Sea Eagles" tvg-name="12:00 National Rugby League : Gold Coast Titans vs Manly Sea Eagles - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League",Sky Sport 3 NZ
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium590/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="National Rugby League - Gold Coast Titans vs Manly Sea Eagles" tvg-name="12:00 National Rugby League : Gold Coast Titans vs Manly Sea Eagles - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League",beIN Sports 5 Max France
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium495/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Super League Rugby - Hull FC vs Castleford Tigers" tvg-name="21:00 Super League Rugby : Hull FC vs Castleford Tigers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League",Fox Soccer Plus
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium756/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Super League Rugby - Hull FC vs Castleford Tigers" tvg-name="21:00 Super League Rugby : Hull FC vs Castleford Tigers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League",Sky Sports+ UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium36/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Super League Rugby - Hull FC vs Castleford Tigers" tvg-name="21:00 Super League Rugby : Hull FC vs Castleford Tigers - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League",Sportsnet World
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten10/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Super Rugby - Crusaders VS Blues" tvg-name="09:05 Super Rugby : Crusaders VS Blues - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union",Sky Sports Action UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium37/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Super Rugby - Crusaders VS Blues" tvg-name="09:05 Super Rugby : Crusaders VS Blues - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union",Canal+ Sport fRANCE
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten22/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Super Rugby - Crusaders VS Blues" tvg-name="09:05 Super Rugby : Crusaders VS Blues - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union",Sky Sport Max IT
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium461/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Super Rugby - Crusaders VS Blues" tvg-name="09:05 Super Rugby : Crusaders VS Blues - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union",Sky Sport 1 NZ
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium588/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Super Rugby - Crusaders VS Blues" tvg-name="09:05 Super Rugby : Crusaders VS Blues - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union",Movistar Deportes Spain
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium436/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Super Rugby - Crusaders VS Blues" tvg-name="09:05 Super Rugby : Crusaders VS Blues - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union",SuperSport Rugby
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten21/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Super Rugby - Crusaders VS Blues" tvg-name="09:05 Super Rugby : Crusaders VS Blues - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union",SuperSport Grandstand
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten12/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Top 14 - Aviron Bayonnais vs Clermont" tvg-name="21:00 Top 14 : Aviron Bayonnais vs Clermont - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union",Viaplay Sports 1 UK
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium451/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Top 14 - Aviron Bayonnais vs Clermont" tvg-name="21:00 Top 14 : Aviron Bayonnais vs Clermont - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union",Canal+ fRANCE
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten21/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Top 14 - Aviron Bayonnais vs Clermont" tvg-name="21:00 Top 14 : Aviron Bayonnais vs Clermont - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union",Movistar Deportes 2 Spain
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium438/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Premier Padel. Italy (T2025) - Men's Quarterfinal 1" tvg-name="12:00 Premier Padel. Italy (T2025): Men's Quarterfinal 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash",Movistar Deportes 3 Spain
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten26/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Premier Padel. Italy (T2025) - Men's Quarterfinal 1" tvg-name="12:00 Premier Padel. Italy (T2025): Men's Quarterfinal 1 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash",Cosmote Sport 9 Greece
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium630/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Premier Padel. Italy (T2025) - Women's Quarterfinal 4" tvg-name="14:00 Premier Padel. Italy (T2025): Women's Quarterfinal 4 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash",Movistar Deportes 3 Spain
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten26/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Premier Padel. Italy (T2025) - Women's Quarterfinal 4" tvg-name="14:00 Premier Padel. Italy (T2025): Women's Quarterfinal 4 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash",Cosmote Sport 9 Greece
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium630/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Premier Padel. Italy (T2025) - Men's Quarterfinal 4" tvg-name="16:00 Premier Padel. Italy (T2025): Men's Quarterfinal 4 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash",Movistar Deportes 3 Spain
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten26/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Premier Padel. Italy (T2025) - Men's Quarterfinal 4" tvg-name="16:00 Premier Padel. Italy (T2025): Men's Quarterfinal 4 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash",Cosmote Sport 9 Greece
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium630/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Premier Padel. Valladolid (T2025) - Event 2 Quarterfinals" tvg-name="19:35 Premier Padel. Valladolid (T2025): Event 2 Quarterfinals - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash",Movistar Deportes 3 Spain
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten26/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Premier Padel. Valladolid (T2025) - Event 2 Quarterfinals" tvg-name="19:35 Premier Padel. Valladolid (T2025): Event 2 Quarterfinals - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash",M+ #Vamos Spain
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten21/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Premier Padel. Valladolid (T2025) - Event 2 Quarterfinals" tvg-name="19:35 Premier Padel. Valladolid (T2025): Event 2 Quarterfinals - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash",Cosmote Sport 9 Greece
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/dokko1/premium630/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Japan vs Serbia" tvg-name="11:00 Nations League : Japan vs Serbia - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Polsat Sport 1 Poland
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium47/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Japan vs Serbia" tvg-name="11:00 Nations League : Japan vs Serbia - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Arena Premium 1 Serbia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium134/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Japan vs Serbia" tvg-name="11:00 Nations League : Japan vs Serbia - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Sportklub 1 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten1/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Japan vs Serbia" tvg-name="11:00 Nations League : Japan vs Serbia - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",MAX Sport 2 Bulgaria
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium473/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Japan vs Serbia" tvg-name="11:00 Nations League : Japan vs Serbia - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",SporTV2 BR
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium79/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Netherlands vs Turkey" tvg-name="14:30 Nations League : Netherlands vs Turkey - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Polsat Sport 1 Poland
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium47/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Netherlands vs Turkey" tvg-name="14:30 Nations League : Netherlands vs Turkey - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Arena Premium 1 Serbia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium134/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Netherlands vs Turkey" tvg-name="14:30 Nations League : Netherlands vs Turkey - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Sportklub 1 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten1/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Netherlands vs Turkey" tvg-name="14:30 Nations League : Netherlands vs Turkey - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",SporTV2 BR
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium79/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Golden League W - Azerbaijan W vs Croatia W" tvg-name="16:30 Golden League W : Azerbaijan W vs Croatia W - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Arena Sport 1 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium432/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Golden League - FYR Macedonia vs Latvia" tvg-name="17:00 Golden League : FYR Macedonia vs Latvia - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Arena Sport 4 Serbia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium581/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Silver League Women - Latvia W vs Austria W" tvg-name="17:35 Silver League Women : Latvia W vs Austria W - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",ORF Sport Plus
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten4/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Golden League W - Montenegro W vs Hungary W" tvg-name="18:00 Golden League W : Montenegro W vs Hungary W - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Duna World Hungary
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten2/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Golden League W - Montenegro W vs Hungary W" tvg-name="18:00 Golden League W : Montenegro W vs Hungary W - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Arena Premium 3 Serbia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium139/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Golden League W - Montenegro W vs Hungary W" tvg-name="18:00 Golden League W : Montenegro W vs Hungary W - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Arena Sport 2 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium433/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Golden League W - Greece W vs Slovenia W" tvg-name="18:00 Golden League W : Greece W vs Slovenia W - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Sport Klub 3 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten3/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Golden League - Czech Republic vs Montenegro" tvg-name="19:00 Golden League : Czech Republic vs Montenegro - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Arena Sport 2 Serbia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/zeko/premium430/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Golden League Women - Sweden vs. Ukraine" tvg-name="19:00 Golden League Women : Sweden vs. Ukraine - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",SVT 2 Sweden
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten5/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Golden League Women - Sweden vs. Ukraine" tvg-name="19:00 Golden League Women : Sweden vs. Ukraine - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",JOJ Sport Slovakia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten6/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Golden League - Spain vs Croatia" tvg-name="19:30 Golden League : Spain vs Croatia - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Arena Sport 1 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium432/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Sport TV1 Portugal
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium49/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Arena Sport 1 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium432/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",JOJ Sport Slovakia HD
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten6/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs Cuba" tvg-name="22:30 Nations League : Ukraine vs Cuba - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Polsat Sport 2 Poland
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium50/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs Cuba" tvg-name="22:30 Nations League : Ukraine vs Cuba - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Sport Klub HD Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium453/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs Argentina" tvg-name="22:30 Nations League : Bulgaria vs Argentina - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Polsat Sport 1 Poland
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium47/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs Argentina" tvg-name="22:30 Nations League : Bulgaria vs Argentina - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",MAX Sport 2 Bulgaria
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium473/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs Argentina" tvg-name="22:30 Nations League : Bulgaria vs Argentina - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Sport Klub 2 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten2/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs Slovenia" tvg-name="02:00 Nations League : Iran vs Slovenia - 13/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749722956_mirands-x-racing-santander.png" group-title="Pallavolo",Polsat Sport 2 Poland
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium50/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs Slovenia" tvg-name="02:00 Nations League : Iran vs Slovenia - 13/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749722956_mirands-x-racing-santander.png" group-title="Pallavolo",Sport Klub 2 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten2/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - France vs Italy" tvg-name="02:00 Nations League : France vs Italy - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Polsat Sport 1 Poland
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium47/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - France vs Italy" tvg-name="02:00 Nations League : France vs Italy - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",MAX Sport 2 Bulgaria
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium473/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - France vs Italy" tvg-name="02:00 Nations League : France vs Italy - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Arena Premium 2 Serbia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium135/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Nations League - France vs Italy" tvg-name="02:00 Nations League : France vs Italy - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",Sport Klub 3 Croatia
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten3/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="AVP Beach Volleyball League Week 3 - Miami Live - AVP Beach Volleyball League Week 3 - Miami Live" tvg-name="02:00 AVP Beach Volleyball League Week 3 - Miami Live - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo",CBS Sports Network USA
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wikihz/wikiten8/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (D)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/nfs/premium877/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36

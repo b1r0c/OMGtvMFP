@@ -59,6 +59,30 @@
       "url": "https://thisnot.business/player.php?id=ZiggoSP4"
     }
   },
+  "https://thisnot.business/player.php?id=SportF1_IT": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155",
+    "info": {
+      "category": "FORMULA 1",
+      "title": "GP CANADA - MONTREAL",
+      "date": "VENERDI 13 GIUGNO",
+      "event": "20:00 Gara",
+      "channel": "Sky Sport",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=SportF1_IT"
+    }
+  },
+  "https://thisnot.business/player.php?id=Eurosport1_IT": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master_stereo.mpd%3F%26ck%3DeyIwMDM2YmIzZmE3ZTZmMmMzMzRkN2NiYTVjMjhiNmNhZiI6IjIxN2ZhMzU3MzljZDY4ZTkwYjJjZDIzMzIyYzAxMzEyIn0%3D&key_id=0036bb3fa7e6f2c334d7cba5c28b6caf&key=217fa35739cd68e90b2cd23322c01312",
+    "info": {
+      "category": "WEC",
+      "title": "24 ORE DI LE MANS - FRANCIA",
+      "date": "SABATO 14 GIUGNO",
+      "event": "16:00 Fine Gara",
+      "channel": "Eurosport",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=Eurosport1_IT"
+    }
+  },
   "https://thisnot.business/player.php?id=SportTennis_IT": {
     "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd%3F%26ck%3DMDAzNmZiN2M1NjRjNGViOTllMzEwZjVmYTgyYWIyZjI6NjQ3ZjA3YjY4NThhNjY5NDU2ZTczY2ExMDNiNGMyYzA%3D&key_id=0036fb7c564c4eb99e310f5fa82ab2f2&key=647f07b6858a669456e73ca103b4c2c0",
     "info": {
@@ -67,7 +91,7 @@
       "date": "LUNEDI 9 GIUGNO - DOMENICA 15 GIUGNO",
       "event": "11:00 Live",
       "channel": "Sky Sport",
-      "language": "nl",
+      "language": "it",
       "url": "https://thisnot.business/player.php?id=SportTennis_IT"
     }
   },
@@ -83,16 +107,28 @@
       "url": "https://thisnot.business/player.php?id=SportUno_IT"
     }
   },
-  "https://thisnot.business/player.php?id=PolsatSP1": {
-    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e",
+  "https://thisnot.business/player.php?id=SportNBA_IT": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53",
     "info": {
-      "category": "PALLAVOLO",
-      "title": "NATIONS LEAGUE MASCHILE - CANADA",
-      "date": "GIOVEDI 12 GIUGNO",
-      "event": "23:50 Bulgaria v Canada",
-      "channel": "Polsat Sport",
-      "language": "pl",
-      "url": "https://thisnot.business/player.php?id=PolsatSP1"
+      "category": "BASKET",
+      "title": "LBA SERIE A - FINALE",
+      "date": "GIOVEDI 12 GIUGNO - GARA 1",
+      "event": "02:30 Oklahoma City Thunder v Indiana Pacers",
+      "channel": "Sky Sport",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=SportNBA_IT"
+    }
+  },
+  "https://thisnot.business/player.php?id=DMAX": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/hls/manifest.m3u8?d=https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8",
+    "info": {
+      "category": "BASKET",
+      "title": "LBA SERIE A - FINALE",
+      "date": "GIOVEDI 12 GIUGNO - GARA 1",
+      "event": "20:30 Germani Brescia v Virtus Bologna",
+      "channel": "DMAX",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=DMAX"
     }
   },
   "https://thisnot.business/player.php?id=PolsatSP2": {
@@ -107,6 +143,18 @@
       "url": "https://thisnot.business/player.php?id=PolsatSP2"
     }
   },
+  "https://thisnot.business/player.php?id=PolsatSP1": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e",
+    "info": {
+      "category": "PALLAVOLO",
+      "title": "NATIONS LEAGUE MASCHILE - CANADA",
+      "date": "GIOVEDI 12 GIUGNO",
+      "event": "23:50 Bulgaria v Canada",
+      "channel": "Polsat Sport",
+      "language": "pl",
+      "url": "https://thisnot.business/player.php?id=PolsatSP1"
+    }
+  },
   "https://thisnot.business/player.php?id=PolsatSP3": {
     "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd&key_id=03ddf71c8dae4e8d8b171fb81ecfe609&key=fc80cf8969cf1b3c2c061eadb94e1330",
     "info": {
@@ -119,30 +167,6 @@
       "url": "https://thisnot.business/player.php?id=PolsatSP3"
     }
   },
-  "https://thisnot.business/player.php?id=SportNBA_IT": {
-    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53",
-    "info": {
-      "category": "BASKET",
-      "title": "NBA FINALS - USA",
-      "date": "SABATO 14 GIUGNO - GARA 4",
-      "event": "02:30 Oklahoma City Thunder v Indiana Pacers",
-      "channel": "Sky Sport",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=SportNBA_IT"
-    }
-  },
-  "https://thisnot.business/player.php?id=SportF1_IT": {
-    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155",
-    "info": {
-      "category": "FORMULA 1",
-      "title": "GP CANADA - MONTREAL",
-      "date": "VENERDI 13 GIUGNO",
-      "event": "20:00 Gara",
-      "channel": "Sky Sport",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=SportF1_IT"
-    }
-  },
   "https://thisnot.business/player.php?id=Sport24_IT": {
     "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd%3F%26ck%3DMDAzNjYzZGRmMWFjYjI1ZWE4OGE3Y2Y5NzNhZmMwZDU6MzVlYTkxYjQxNTFkNjk3NTAwNzk5OGMzMjhkYWVlNmM%3D&key_id=003663ddf1acb25ea88a7cf973afc0d5&key=35ea91b4151d6975007998c328daee6c",
     "info": {
@@ -151,7 +175,7 @@
       "date": "TUTTI I GIORNI",
       "event": "Live",
       "channel": "Sky Sport 24",
-      "language": "it",
+      "language": "pl",
       "url": "https://thisnot.business/player.php?id=Sport24_IT"
     }
   },

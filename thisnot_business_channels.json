@@ -4,35 +4,11 @@
     "info": {
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
-      "date": "GIOVEDI 12 GIUGNO",
+      "date": "SABATO 14 GIUGNO",
       "event": "18:00 Spagna U.21 - Romania U.21",
       "channel": "Ziggo",
-      "language": "nl",
+      "language": "",
       "url": "https://thisnot.business/player.php?id=ZiggoSP1"
-    }
-  },
-  "https://thisnot.business/player.php?id=ZiggoSP2": {
-    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601013140:UTC%2C10001003329222%2C87.212.140.171%2C20240601013140%2C3103_SP1V%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26_%3D1717205500296%26RTS%3D1717205500%26from%3D11%26hms_devid%3D579%26online%3D1717205500%26mag_hms%3D579%26ck%3DM2NmYTg2MjVmNjUwNDA2ZWJmNmE0ZDFlYTczN2Y1NzI6MDUzNGU3NDdjNzBiMzY0YWE3MjEwZTFiZjMxOTFkZjA%3D&key_id=3cfa8625f650406ebf6a4d1ea737f572&key=0534e747c70b364aa7210e1bf3191df0",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
-      "date": "GIOVEDI 12 GIUGNO",
-      "event": "21:00 Portogallo U.21 - Polonia U.21",
-      "channel": "Ziggo",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=ZiggoSP2"
-    }
-  },
-  "https://thisnot.business/player.php?id=ZiggoSP3": {
-    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601013401:UTC%2C10001003329222%2C87.212.140.171%2C20240601013401%2C3103_SP1G%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26_%3D1717205641752%26RTS%3D1717205641%26from%3D16%26hms_devid%3D538%26online%3D1717205641%26mag_hms%3D538%26ck%3DNGRiZWE0YjU3MTNhNGFhMWFlM2EyNTQ0Y2Q1MjJmYzc6YTgzMjNlYTk5YjJkNjIwMGE0OGUxYmMyNzMyMmQ1NDg%3D&key_id=4dbea4b5713a4aa1ae3a2544cd522fc7&key=a8323ea99b2d6200a48e1bc27322d548",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
-      "date": "GIOVEDI 12 GIUGNO",
-      "event": "21:00 Germania U.21 - Slovenia U.21",
-      "channel": "Ziggo",
-      "language": "nl",
-      "url": "https://thisnot.business/player.php?id=ZiggoSP3"
     }
   },
   "https://thisnot.business/player.php?id=Rai2": {
@@ -40,11 +16,23 @@
     "info": {
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
-      "date": "GIOVEDI 12 GIUGNO",
+      "date": "SABATO 14 GIUGNO",
       "event": "21:00 Slovacchia U.21 - Italia U.21",
       "channel": "Rai",
       "language": "nl",
       "url": "https://thisnot.business/player.php?id=Rai2"
+    }
+  },
+  "https://thisnot.business/player.php?id=ZiggoSP2": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601013140:UTC%2C10001003329222%2C87.212.140.171%2C20240601013140%2C3103_SP1V%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26_%3D1717205500296%26RTS%3D1717205500%26from%3D11%26hms_devid%3D579%26online%3D1717205500%26mag_hms%3D579%26ck%3DM2NmYTg2MjVmNjUwNDA2ZWJmNmE0ZDFlYTczN2Y1NzI6MDUzNGU3NDdjNzBiMzY0YWE3MjEwZTFiZjMxOTFkZjA%3D&key_id=3cfa8625f650406ebf6a4d1ea737f572&key=0534e747c70b364aa7210e1bf3191df0",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
+      "date": "SABATO 14 GIUGNO",
+      "event": "21:00 Portogallo U.21 - Polonia U.21",
+      "channel": "Ziggo",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=ZiggoSP2"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP4": {
@@ -52,7 +40,7 @@
     "info": {
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
-      "date": "GIOVEDI 12 GIUGNO",
+      "date": "SABATO 14 GIUGNO",
       "event": "21:00 Francia U.21 - Georgia U.21",
       "channel": "Ziggo",
       "language": "nl",
@@ -112,7 +100,7 @@
     "info": {
       "category": "BASKET",
       "title": "LBA SERIE A - FINALE",
-      "date": "GIOVEDI 12 GIUGNO - GARA 1",
+      "date": "SABATO 14 GIUGNO - GARA 2",
       "event": "02:30 Oklahoma City Thunder v Indiana Pacers",
       "channel": "Sky Sport",
       "language": "it",
@@ -124,23 +112,11 @@
     "info": {
       "category": "BASKET",
       "title": "LBA SERIE A - FINALE",
-      "date": "GIOVEDI 12 GIUGNO - GARA 1",
+      "date": "SABATO 14 GIUGNO - GARA 2",
       "event": "20:30 Germani Brescia v Virtus Bologna",
       "channel": "DMAX",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=DMAX"
-    }
-  },
-  "https://thisnot.business/player.php?id=PolsatSP2": {
-    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23",
-    "info": {
-      "category": "PALLAVOLO",
-      "title": "NATIONS LEAGUE MASCHILE - CANADA",
-      "date": "GIOVEDI 12 GIUGNO",
-      "event": "22:00 Cuba v USA",
-      "channel": "Polsat Sport",
-      "language": "pl",
-      "url": "https://thisnot.business/player.php?id=PolsatSP2"
     }
   },
   "https://thisnot.business/player.php?id=PolsatSP1": {
@@ -148,11 +124,23 @@
     "info": {
       "category": "PALLAVOLO",
       "title": "NATIONS LEAGUE MASCHILE - CANADA",
-      "date": "GIOVEDI 12 GIUGNO",
+      "date": "VENERDI 13 GIUGNO",
       "event": "23:50 Bulgaria v Canada",
       "channel": "Polsat Sport",
       "language": "pl",
       "url": "https://thisnot.business/player.php?id=PolsatSP1"
+    }
+  },
+  "https://thisnot.business/player.php?id=PolsatSP2": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23",
+    "info": {
+      "category": "PALLAVOLO",
+      "title": "NATIONS LEAGUE MASCHILE - CANADA",
+      "date": "VENERDI 13 GIUGNO",
+      "event": "22:00 Cuba v USA",
+      "channel": "Polsat Sport",
+      "language": "pl",
+      "url": "https://thisnot.business/player.php?id=PolsatSP2"
     }
   },
   "https://thisnot.business/player.php?id=PolsatSP3": {
@@ -160,7 +148,7 @@
     "info": {
       "category": "PALLAVOLO",
       "title": "NATIONS LEAGUE MASCHILE - CANADA",
-      "date": "GIOVEDI 12 GIUGNO",
+      "date": "VENERDI 13 GIUGNO",
       "event": "17:00 Argentina v Italia",
       "channel": "Polsat Sport",
       "language": "pl",

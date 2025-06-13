@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="UAE Warriors 60 - UAE Warriors 60" tvg-name="17:00 UAE Warriors 60 - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events",UFC Fight Pass
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/wind/premium68/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="2025 PDRA North vs South Shootout - 2025 PDRA North vs South Shootout" tvg-name="17:00 2025 PDRA North vs South Shootout - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events",Floracing
+https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium69/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Cork City vs Bohemians" tvg-name="20:45 Ireland Republic - Premier Division : Cork City vs Bohemians - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",LOITV
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?&d=https://new.newkso.ru/ddy6/premium151/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 

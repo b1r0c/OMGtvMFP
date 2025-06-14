@@ -18,14 +18,6 @@ Pagina Evento: https://thisnot.business/player.php?id=ZiggoSP4
   Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~u0jaHTa0MTNW18tBSpXw1Ad47f31195be578ee163e34a9e557d481~-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601013557:UTC%2C10001003329222%2C87.212.140.171%2C20240601013557%2C3103_SP1T%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26_%3D1717205757900%26RTS%3D1717205758%26from%3D11%26hms_devid%3D538%26online%3D1717205758%26mag_hms%3D538%26ck%3DYjVjMDRjZmI2ZGE4NDEwNGJhNWJiZTUxY2QwNjViMTI6ZDk2NTYxYmU0ODE5ZDNlZDRlNWY0ZjU0MDE1YmFhY2E%3D&key_id=b5c04cfb6da84104ba5bbe51cd065b12&key=d96561be4819d3ed4e5f4f54015baaca
 
 Pagina Evento: https://thisnot.business/player.php?id=SportF1_IT
-  Dettagli: Categoria='FORMULA 1', Evento='19:30 Prove Libere (1)', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155
-
-Pagina Evento: https://thisnot.business/player.php?id=SportF1_IT
-  Dettagli: Categoria='FORMULA 1', Evento='23:00 Prove Libere (2)', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155
-
-Pagina Evento: https://thisnot.business/player.php?id=SportF1_IT
   Dettagli: Categoria='FORMULA 1', Evento='18:30 Prove Libere (3)', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155
 
@@ -84,18 +76,6 @@ Pagina Evento: https://thisnot.business/player.php?id=DMAX
 Pagina Evento: https://thisnot.business/player.php?id=DMAX
   Dettagli: Categoria='BASKET', Evento='20:30 Germani Brescia v Virtus Bologna', Canale='DMAX'
   Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/hls/manifest.m3u8?d=https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
-
-Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
-  Dettagli: Categoria='PALLAVOLO', Evento='14:30 Olanda v Turchia', Canale='Polsat Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
-
-Pagina Evento: https://thisnot.business/player.php?id=PolsatSP2
-  Dettagli: Categoria='PALLAVOLO', Evento='22:30 Ucraina v Cuba', Canale='Polsat Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
-
-Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
-  Dettagli: Categoria='PALLAVOLO', Evento='22:30 Bulgaria v Argentina', Canale='Polsat Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
 
 Pagina Evento: https://thisnot.business/player.php?id=PolsatSP1
   Dettagli: Categoria='PALLAVOLO', Evento='01:45 Francia v Italia', Canale='Polsat Sport'

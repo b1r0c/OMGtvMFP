@@ -30,13 +30,13 @@ https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1
 #EXTINF:-1 tvg-id="DMAX" tvg-name="LBA SERIE A - FINALE SABATO 14 GIUGNO - GARA 2 20:30 Germani Brescia v Virtus Bologna" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", DMAX (TN)
 https://mfpale.onrender.com/proxy/hls/manifest.m3u8?d=https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PolsatSP1" tvg-name="NATIONS LEAGUE MASCHILE - CANADA VENERDI 13 GIUGNO 23:50 Bulgaria v Canada" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Polsat Sport (TN)
+#EXTINF:-1 tvg-id="PolsatSP1" tvg-name="NATIONS LEAGUE MASCHILE - CANADA SABATO 14 GIUGNO 23:50 Bulgaria v Canada" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Polsat Sport (TN)
 https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd&key_id=590abbe92e6e470a9e355d58ec910709&key=0af2b5f2450474207f6761adc9dc635e
 
-#EXTINF:-1 tvg-id="PolsatSP2" tvg-name="NATIONS LEAGUE MASCHILE - CANADA VENERDI 13 GIUGNO 22:00 Cuba v USA" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Polsat Sport (TN)
+#EXTINF:-1 tvg-id="PolsatSP2" tvg-name="NATIONS LEAGUE MASCHILE - CANADA SABATO 14 GIUGNO 22:00 Cuba v USA" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Polsat Sport (TN)
 https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23
 
-#EXTINF:-1 tvg-id="PolsatSP3" tvg-name="NATIONS LEAGUE MASCHILE - CANADA VENERDI 13 GIUGNO 17:00 Argentina v Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Polsat Sport (TN)
+#EXTINF:-1 tvg-id="PolsatSP3" tvg-name="NATIONS LEAGUE MASCHILE - CANADA SABATO 14 GIUGNO 17:00 Argentina v Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Polsat Sport (TN)
 https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd&key_id=03ddf71c8dae4e8d8b171fb81ecfe609&key=fc80cf8969cf1b3c2c061eadb94e1330
 
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://thisnot.business/loghi/logo.png" group-title="Sport;ThisNot", Sky Sport 24 (TN)

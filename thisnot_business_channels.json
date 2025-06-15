@@ -1,16 +1,4 @@
 {
-  "https://thisnot.business/player.php?id=Italia1_IT": {
-    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
-      "date": "DOMENICA 15 GIUGNO",
-      "event": "21:00 PSG - Atletico Madrid",
-      "channel": "Mediaset",
-      "language": "br",
-      "url": "https://thisnot.business/player.php?id=Italia1_IT"
-    }
-  },
   "https://thisnot.business/player.php?id=SAT1": {
     "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4",
     "info": {
@@ -19,8 +7,20 @@
       "date": "DOMENICA 15 GIUGNO",
       "event": "18:00 Bayern Monaco - Auckland City",
       "channel": "SAT1",
-      "language": "br",
+      "language": "",
       "url": "https://thisnot.business/player.php?id=SAT1"
+    }
+  },
+  "https://thisnot.business/player.php?id=Italia1_IT": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
+      "date": "DOMENICA 15 GIUGNO",
+      "event": "18:00 Fluminense - Borussia Dortmund",
+      "channel": "Mediaset",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Italia1_IT"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP1": {
@@ -29,7 +29,7 @@
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
       "date": "DOMENICA 15 GIUGNO",
-      "event": "21:00 Paesi Bassi U.21 - Danimarca U.21",
+      "event": "18:00 Francia U.21 - Polonia U.21",
       "channel": "Ziggo",
       "language": "nl",
       "url": "https://thisnot.business/player.php?id=ZiggoSP1"
@@ -53,10 +53,22 @@
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
       "date": "DOMENICA 15 GIUGNO",
-      "event": "21:00 Czechia U.21 - Germania U.21",
+      "event": "21:00 Romania U.21 - Slovacchia U.21",
       "channel": "Ziggo",
       "language": "nl",
       "url": "https://thisnot.business/player.php?id=ZiggoSP2"
+    }
+  },
+  "https://thisnot.business/player.php?id=Rai2": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO EUROPEO U.21 - SLOVACCHIA",
+      "date": "DOMENICA 15 GIUGNO",
+      "event": "21:00 Spagna U.21 - Italia U.21",
+      "channel": "Rai",
+      "language": "nl",
+      "url": "https://thisnot.business/player.php?id=Rai2"
     }
   },
   "https://thisnot.business/player.php?id=SportF1_IT": {
@@ -67,8 +79,20 @@
       "date": "DOMENICA 15 GIUGNO",
       "event": "20:00 Gara",
       "channel": "Sky Sport",
-      "language": "nl",
+      "language": "it",
       "url": "https://thisnot.business/player.php?id=SportF1_IT"
+    }
+  },
+  "https://thisnot.business/player.php?id=TSN5": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://live-cito.9c9media.ca/5d56690552e77e26848799912ac055919f78d5e71725017868382/f/tsn5/manifest.mpd&key_id=f4608dc9b6164cd7b96791af91cc334c&key=8d4bc6537629d3f7ad5aa4e75516f6da",
+    "info": {
+      "category": "FORMULA 1",
+      "title": "GP CANADA - MONTREAL",
+      "date": "DOMENICA 15 GIUGNO",
+      "event": "20:00 Gara",
+      "channel": "TSN",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=TSN5"
     }
   },
   "https://thisnot.business/player.php?id=Eurosport1_IT": {
@@ -76,10 +100,10 @@
     "info": {
       "category": "WEC",
       "title": "24 ORE DI LE MANS - FRANCIA",
-      "date": "SABATO 14 GIUGNO",
+      "date": "DOMENICA 15 GIUGNO",
       "event": "16:00 Fine Gara",
       "channel": "Eurosport",
-      "language": "it",
+      "language": "ca",
       "url": "https://thisnot.business/player.php?id=Eurosport1_IT"
     }
   },
@@ -88,7 +112,7 @@
     "info": {
       "category": "TENNIS",
       "title": "ATP/WTA INTERNAZIONALI",
-      "date": "LUNEDI 9 GIUGNO - DOMENICA 15 GIUGNO",
+      "date": "DOMENICA 15 GIUGNO",
       "event": "11:00 Live",
       "channel": "Sky Sport",
       "language": "it",
@@ -100,7 +124,7 @@
     "info": {
       "category": "TENNIS",
       "title": "ATP/WTA INTERNAZIONALI",
-      "date": "LUNEDI 9 GIUGNO - DOMENICA 15 GIUGNO",
+      "date": "DOMENICA 15 GIUGNO",
       "event": "11:00 Live",
       "channel": "Sky Sport",
       "language": "it",
@@ -112,7 +136,7 @@
     "info": {
       "category": "BASKET",
       "title": "LBA SERIE A - FINALE",
-      "date": "SABATO 14 GIUGNO - GARA 2",
+      "date": "MARTEDI 17 GIUGNO - GARA 3",
       "event": "02:30 Indiana Pacers v Oklahoma City Thunder",
       "channel": "Sky Sport",
       "language": "it",
@@ -124,7 +148,7 @@
     "info": {
       "category": "BASKET",
       "title": "LBA SERIE A - FINALE",
-      "date": "SABATO 14 GIUGNO - GARA 2",
+      "date": "MARTEDI 17 GIUGNO - GARA 3",
       "event": "20:30 Germani Brescia v Virtus Bologna",
       "channel": "DMAX",
       "language": "it",
@@ -136,23 +160,11 @@
     "info": {
       "category": "PALLAVOLO",
       "title": "NATIONS LEAGUE MASCHILE - CANADA",
-      "date": "SABATO 14 GIUGNO",
+      "date": "DOMENICA 15 GIUGNO",
       "event": "23:50 Bulgaria v Canada",
       "channel": "Polsat Sport",
       "language": "pl",
       "url": "https://thisnot.business/player.php?id=PolsatSP1"
-    }
-  },
-  "https://thisnot.business/player.php?id=PolsatSP2": {
-    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23",
-    "info": {
-      "category": "PALLAVOLO",
-      "title": "NATIONS LEAGUE MASCHILE - CANADA",
-      "date": "SABATO 14 GIUGNO",
-      "event": "22:00 Cuba v USA",
-      "channel": "Polsat Sport",
-      "language": "pl",
-      "url": "https://thisnot.business/player.php?id=PolsatSP2"
     }
   },
   "https://thisnot.business/player.php?id=PolsatSP3": {
@@ -160,11 +172,23 @@
     "info": {
       "category": "PALLAVOLO",
       "title": "NATIONS LEAGUE MASCHILE - CANADA",
-      "date": "SABATO 14 GIUGNO",
+      "date": "DOMENICA 15 GIUGNO",
       "event": "17:00 Argentina v Italia",
       "channel": "Polsat Sport",
       "language": "pl",
       "url": "https://thisnot.business/player.php?id=PolsatSP3"
+    }
+  },
+  "https://thisnot.business/player.php?id=PolsatSP2": {
+    "proxy_url": "https://mfpale.onrender.com/proxy/mpd/manifest.m3u8?d=https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd&key_id=3201accccbe9455cbc28dcd4bcdf1509&key=f4d9a50f98ea833d2e5120d83bd59a23",
+    "info": {
+      "category": "PALLAVOLO",
+      "title": "NATIONS LEAGUE MASCHILE - CANADA",
+      "date": "DOMENICA 15 GIUGNO",
+      "event": "22:00 Cuba v USA",
+      "channel": "Polsat Sport",
+      "language": "pl",
+      "url": "https://thisnot.business/player.php?id=PolsatSP2"
     }
   },
   "https://thisnot.business/player.php?id=Sport24_IT": {
